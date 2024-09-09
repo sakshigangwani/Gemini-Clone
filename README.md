@@ -5,8 +5,7 @@
 ![image](https://github.com/user-attachments/assets/e9cab472-76f2-494b-b491-833933f5742b)
 ![image](https://github.com/user-attachments/assets/239326ec-b0cd-473f-87e5-e6c35e5be783)
 
-Features:
-Add a Prompt: Users can input a prompt to initiate a conversation or continue an ongoing one.
-New Chat: Start a new conversation thread at any time with the 'New Chat' feature.
-View Previous Responses: Navigate back to previous conversations and responses seamlessly.
-This project replicates key functions of conversational AI systems with a user-friendly interface for interactive dialogue management.
+## Features:
+- **Add a Prompt**: Users can input a prompt to initiate a conversation or continue an ongoing one.
+- **New Chat**: Start a new conversation thread at any time with the 'New Chat' feature.
+- **View Previous Responses**: Navigate back to previous conversations and responses seamlessly.
